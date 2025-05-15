@@ -6,14 +6,14 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🇮🇳+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗭𝗬𝗥𝗢+🇮🇳">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🇮🇳+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗢𝗥𝗦+🇮🇳">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h1 align="center"><b>𝗧𝗘𝗔𝗠 𝗭𝗬𝗥𝗢 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧</b></h1>
+<h1 align="center"><b>𝗧𝗘𝗔𝗠 𝗠𝗔𝗡𝗜𝗣𝗨𝗟𝗔𝗧𝗢𝗥 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧</b></h1>
 
 <p align="center">
-  <a href="https://t.me/sukuna_Dev">
+  <a href="https://t.me/Sexyycopyright">
     <img src="https://envs.sh/fbk.jpg" width="400">
   </a>
 </p>
@@ -42,13 +42,13 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/zyroupdates">
+  <a href="https://t.me/destrroyerofworldd">
     <img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
   </a>
 </p>
 
 
 ### This is a Public **Music Management Bot** made by:  
-- [Xeno Kakarot](https://t.me/Xeno_Kakarot)  
-- [Ryomen Sukuna](https://t.me/sukuna_Dev)
+- [Xeno Kakarot](https://t.me/ll_destroyerr_lll)  
+- [Ryomen Sukuna](https://t.me/Sexyycopyright)
 - 
