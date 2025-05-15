@@ -49,6 +49,6 @@
 
 
 ### This is a Public **Music Management Bot** made by:  
-- [Xeno Kakarot](https://t.me/ll_destroyerr_lll)  
-- [Ryomen Sukuna](https://t.me/Sexyycopyright)
+- [𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥](https://t.me/ll_destroyerr_lll)  
+- [𝗔𝗥𝗬𝗔𝗡](https://t.me/Sexyycopyright)
 - 
