@@ -36,7 +36,7 @@
 <h3 align="center">🌟 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌟</h3>
 
 <p align="center">
-  <a href="https://t.me/PiratesMainchat">
+  <a href="https://t.me/NYT_STORIES">
     <img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
   </a>
 </p>
