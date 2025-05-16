@@ -31,7 +31,7 @@ def private_panel(_):
         [
             InlineKeyboardButton(
                 text="sᴘᴀᴍ 💳",  # Button ka naam
-                url="https://github.com/Divy-oss/ZyroMusic"  # Yaha apna repo ka link daalna
+                url="https://t.me/MY_LOGS_GC"  # Yaha apna repo ka link daalna
             ),
         ], 
         [
